@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - avoid_print
+    - prefer_single_quotes
+    - sort_child_properties_last
+    - unawaited_futures
+    - prefer_is_empty
+    - prefer_is_not_empty
